@@ -1,0 +1,47 @@
+= BANK ACCOUNT MANAGEMENT SYSTEM =
+1. checking_balance Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 
+Current Balance: 23000
+
+= BANK ACCOUNT MANAGEMENT SYSTEM =
+1. checking_balance Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: Enter amount to deposit: Amount Deposited sucessfully
+Current Balance: 27000
+
+= BANK ACCOUNT MANAGEMENT SYSTEM =
+1. checking_balance Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 
+Current Balance: 27000
+
+= BANK ACCOUNT MANAGEMENT SYSTEM =
+1. checking_balance Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: Enter amount to do  withdraw: Amount Debited sucessfully
+Current Balance: 26000
+
+= BANK ACCOUNT MANAGEMENT SYSTEM =
+1. checking_balance Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 
+Current Balance: 26000
+
+= BANK ACCOUNT MANAGEMENT SYSTEM =
+1. checking_balance Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: Thank you for using our Bank Account Management System.
+
