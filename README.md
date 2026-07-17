@@ -3,7 +3,7 @@
 A simple Bank Account Managment System
 
 #Featrures that I added
--Check/Checking Balance
--Deposit Amount
--Withdraw Amount
--Exit
+-1.Check/Checking Balance
+-2.Deposit Amount
+-3.Withdraw Amount
+-4.Exit
